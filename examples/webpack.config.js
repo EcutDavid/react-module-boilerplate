@@ -15,7 +15,7 @@ module.exports = {
 
   resolve: {
     alias: {
-      '': '../src/index'
+      'demo': '../src/index'
     }
   }
 };
